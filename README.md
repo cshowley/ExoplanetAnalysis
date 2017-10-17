@@ -3,3 +3,5 @@ Simulate geometry of planets' orbits to calculate light reflecting off their sur
 
 Run phasePlots.py first to pull data from exoplanets.org and calculate total light reflecting off of 947 exoplanetary systems (as of 8/24/15).
 The secondary script correlationData.py takes the results from phasePlots.py and creates a series of histograms and scatter plots to visualize some of the relationships in the calculated data.
+
+The link to the full paper may be downloaded from: https://sfsu-dspace.calstate.edu/handle/10211.3/146113
