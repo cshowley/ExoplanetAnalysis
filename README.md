@@ -1,4 +1,4 @@
-# MastersThesis
+# Masters Thesis
 Simulate geometry of planets' orbits to calculate light reflecting off their surfaces
 
 Run phasePlots.py first to pull data from exoplanets.org and calculate total light reflecting off of 947 exoplanetary systems (as of 8/24/15).
